@@ -17,7 +17,8 @@ Serverless 활용하기: https://velopert.com/3577
 AWS KOREA 유튜브 : https://www.youtube.com/watch?v=wt4Ue-1eYW8&ab_channel=AmazonWebServicesKorea
 
 
-참조도서: http://www.yes24.com/Product/Goods/58216884
+참조도서: http://www.yes24.com/Product/Goods/58216884 서버리스 웹 애플리케이션 구축 AWS 서비스, 서버리스 프레임워크 소개부터 서버리스 애플리케이션 개발과 배포까지
+http://www.yes24.com/Product/Goods/39011465 AWS 인액션
 
 수시간 이상 걸리는 작업들
 ECS Fargate를 소개해드렸지만 서울리전에서는 사용할 수 없는데다가 비용도 일반 EC2 인스턴스보다는 가격이 상당히 비쌉니다. 이렇게 장시간 컴퓨팅 작업이 필요한 경우에는 ECS 혹은 EC2 서비스를 사용하는편이 더 경제적으로 사용할 수 있습니다.
