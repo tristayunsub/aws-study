@@ -23,3 +23,5 @@ AWS KOREA 유튜브 : https://www.youtube.com/watch?v=wt4Ue-1eYW8&ab_channel=Ama
 ECS Fargate를 소개해드렸지만 서울리전에서는 사용할 수 없는데다가 비용도 일반 EC2 인스턴스보다는 가격이 상당히 비쌉니다. 이렇게 장시간 컴퓨팅 작업이 필요한 경우에는 ECS 혹은 EC2 서비스를 사용하는편이 더 경제적으로 사용할 수 있습니다.
 
 https://blog.naver.com/rinjyu/222405286619
+
+AWS-DVA 자격증? https://blog.naver.com/sehyunfa/221918924836
