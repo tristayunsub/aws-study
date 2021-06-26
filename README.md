@@ -5,6 +5,8 @@
 서버리스 공부
 
 Homepage:https://www.serverless.com/
+ 
+ 기술블로그 : https://blog.naver.com/classmethodkr/222388382442
 
 CLOUD FORMATION : https://aws.amazon.com/ko/cloudformation/
 
