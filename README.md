@@ -31,10 +31,5 @@ https://blog.naver.com/rinjyu/222405286619
 
 AWS-DVA 자격증? https://blog.naver.com/sehyunfa/221918924836t
 
-Spring Boot, reactjs mysql 앱을 aws를 활용하여 배포
-https://www.youtube.com/watch?v=D1yOALZcMHs&t=2456s&ab_channel=JavaGuides 가장 최신
 
-jsp 앱도 시도
-https://www.youtube.com/watch?v=mdIxi3uWxL4&t=29s&ab_channel=%EB%8D%B0%EC%96%B4%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
-
-참고 데어프로그래밍 등
+Crash Course:https://www.youtube.com/watch?v=pApz34vB6YU&list=PLIGDNOJWiL18ETMVbf_-ss7sAn1RcXwks&ab_channel=Codewithtkssharma
