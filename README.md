@@ -32,6 +32,4 @@ https://blog.naver.com/rinjyu/222405286619
 AWS-DVA 자격증? https://blog.naver.com/sehyunfa/221918924836t
 
 
-Crash Course:https://www.youtube.com/watch?v=pApz34vB6YU&list=PLIGDNOJWiL18ETMVbf_-ss7sAn1RcXwks&ab_channel=Codewithtkssharma
-
-https://www.youtube.com/watch?v=0_NcB2Sw15k&list=PLIIjEI2fYC-BZliSOIhWUqiiwadhCvewg&index=5&ab_channel=Serverless
+Crash Course:https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=9s&ab_channel=SanjeevThiyagarajan how to deploy my app in aws
