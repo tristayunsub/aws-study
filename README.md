@@ -33,3 +33,10 @@ AWS-DVA 자격증? https://blog.naver.com/sehyunfa/221918924836t
 
 
 Crash Course:https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=9s&ab_channel=SanjeevThiyagarajan how to deploy my app in aws
+
+
+# Building Simple Express.js App: DevOps with Docker and Node.js + Mongodb/Redis Part #1
+
+https://www.youtube.com/watch?v=Ck7baWmnldY&list=PL8VzFQ8k4U1JEu7BLraz8MdKJILJir7oY&index=1&ab_channel=SanjeevThiyagarajan
+
+도커에 node.js mongodb/redis 올려보기
