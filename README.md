@@ -40,3 +40,8 @@ Crash Course:https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=9s&ab_channel=Sanjeev
 https://www.youtube.com/watch?v=Ck7baWmnldY&list=PL8VzFQ8k4U1JEu7BLraz8MdKJILJir7oY&index=1&ab_channel=SanjeevThiyagarajan
 
 도커에 node.js mongodb/redis 올려보기
+
+wsl2에서 도커를돌리면 vmmemm이 메모리를 다잡아먹어 노트북을 박살낸다
+
+https://miraclepocket.tistory.com/entry/WSL2%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0
+메모리제한필수
