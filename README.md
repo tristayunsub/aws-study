@@ -44,3 +44,4 @@ https://www.youtube.com/watch?v=Ck7baWmnldY&list=PL8VzFQ8k4U1JEu7BLraz8MdKJILJir
 wsl2에서 도커를돌리면 vmmemm이 메모리를 다잡아먹어 노트북을 박살낸다
 https://twix.tistory.com/5
 메모리제한필수
+https://www.youtube.com/watch?v=4PwClrUCqJM&ab_channel=NickJanetakis
