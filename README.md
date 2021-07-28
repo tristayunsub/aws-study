@@ -45,3 +45,11 @@ wsl2에서 도커를돌리면 vmmemm이 메모리를 다잡아먹어 노트북�
 https://twix.tistory.com/5
 메모리제한필수
 https://www.youtube.com/watch?v=4PwClrUCqJM&ab_channel=NickJanetakis
+
+
+# 무중단 배포
+
+NGINX 블루그린 ?
+https://medium.com/sjk5766/nginx-docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC%EB%A7%9B%EB%B3%B4%EA%B8%B0-8b4f8571ab24
+
+https://velog.io/@swchoi0329/NGINX-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC
